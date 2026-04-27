@@ -1,8 +1,6 @@
 ## 🚖 Uber Ride Analytics Dashboard (Power BI Project)
 
-## 🚖 Uber Ride Analytics Dashboard (Power BI Project)
-
-![Uber Dashboard](uber-dashboard.png)
+![Uber Dashboard](uber.png.png)
 
 ---
 
